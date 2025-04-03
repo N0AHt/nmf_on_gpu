@@ -1,4 +1,4 @@
-# Code for running non negaive factorization on GPU in parallel (hopefully faster than sklearn)
+# Code for running non-negative matrix factorization on GPU (and hopefully faster than sklearn)
 
 Runs both a jax and a pytorch env to compare performances
 
